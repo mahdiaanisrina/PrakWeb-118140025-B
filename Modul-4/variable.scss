@@ -1,0 +1,38 @@
+$colour: rgba(252, 252, 174, 0.575);
+$bgcolour : rgb(28, 109, 91);
+$number1 :20px;
+$align1 : center;
+$font-stack: Helvetica, sans-serif;
+
+.navbar{
+    ul{
+        list-style-type: none;
+        margin :0;
+        padding: 0;
+        overflow: hidden;
+        background-color: $bgcolour;
+    }
+    li{
+        float: left;
+        margin-right:$number1;
+    }
+    li a{
+        display: block;
+        color: white;
+        text-align: $align1;
+        padding: 14px $number1;
+        text-decoration: none;
+    }
+
+    li a:hover {
+        background-color: $colour;
+    }
+}
+body{
+    font: $font-stack;
+    color: black;
+}
+.content {
+    background-color: rgb(177, 241, 227);
+    color: black;
+}
