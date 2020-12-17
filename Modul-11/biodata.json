@@ -1,0 +1,20 @@
+{
+    "Biodata":{
+        "Nama": "Mahdia Nisrina Maharani M",
+        "NIM": "118140025",
+        "JenisKelamin": "Perempuan",
+        "Usia":"20",
+        "Saudara":"Dua",
+        "Hobby":"Menggambar",
+        "Alamat":{
+            "Desa":"Ganjar Asri",
+            "Kecamatan":"Metro Barat",
+            "Kabupaten":"Kota Metro"
+        },
+
+        "SocialMedia":{
+            "Facebook":"Mahdia Nisrina",
+            "Instagram":"ranimahdia_11"
+        }
+    }
+}

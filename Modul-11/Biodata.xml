@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Biodata>
+    <Nama>
+        <NamaDepan>Mahdia Nisrina</NamaDepan>
+        <NamaBelakang>Maharani M></NamaBelakang>
+    </Nama>
+
+    <NIM>118140025</NIM>
+    
+    <JenisKelamin>Perempuan</JenisKelamin>
+
+    <Usia>20</Usia>
+
+    <Saudara>Dua</Saudara>
+
+    <Hobby>Menggambar</Hobby>
+
+    <Alamat>
+        <Desa>Ganjar Asri</Desa>
+        <Kecamatan>Metro Barat</Kecamatan>
+        <Kabupaten>Kota Metro</Kabupaten>
+    </Alamat>
+
+    <SocialMedia>
+        <Facebook>Mahdia Nisrina</Facebook>
+        <Instagram>ranimahdia_11</Instagram>
+    </SocialMedia>
+</Biodata>
